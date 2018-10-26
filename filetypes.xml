@@ -6,14 +6,12 @@
       <mapping pattern="DrawBreastAnchorPoints.ini" type="PLAIN_TEXT" />
       <mapping pattern="foo_bar" type="PLAIN_TEXT" />
       <mapping pattern="DrawBreastAnchorPoints" type="PLAIN_TEXT" />
-      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="spec_" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="qml" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="spec" type="Python" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>

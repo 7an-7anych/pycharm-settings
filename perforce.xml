@@ -1,25 +1,5 @@
 <application>
   <component name="PerforceCachedClientServerState">
-    <client-state scid="scv_srv:1666" cid="scv_srv_1666">
-      <local serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
-        <workspace t="0" n="scv_srv_1666" />
-        <job-status t="0">
-          <s s="open" />
-          <s s="suspended" />
-          <s s="closed" />
-        </job-status>
-        <users />
-      </local>
-      <server serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
-        <workspace t="0" n="scv_srv_1666" />
-        <job-status t="0">
-          <s s="open" />
-          <s s="suspended" />
-          <s s="closed" />
-        </job-status>
-        <users />
-      </server>
-    </client-state>
     <client-state scid="localhost:1666" cid="scv-srv_1666">
       <local serverConnection="localhost:1666" clientName="scv-srv_1666" isServerCaseInsensitive="true">
         <workspace t="0" n="scv-srv_1666" />
@@ -40,5 +20,52 @@
         <users />
       </server>
     </client-state>
+    <client-state scid="scv-srv:1666" cid="full">
+      <local serverConnection="scv-srv:1666" clientName="full" isServerCaseInsensitive="true">
+        <workspace t="0" n="full" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="scv-srv:1666" clientName="full" isServerCaseInsensitive="true">
+        <workspace t="jnq0yx67" n="full">
+          <r p="E:\usik\perforce\full" />
+          <m d="//elektron/..." w="//full/elektron/..." />
+          <m d="//depot/..." w="//full/depot/..." />
+        </workspace>
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+        <ch t="0" ur="0" c="0" />
+        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
+      </server>
+    </client-state>
+    <client-state scid="scv_srv:1666" cid="scv_srv_1666">
+      <local serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
+        <workspace t="0" n="scv_srv_1666" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
+        <workspace t="0" n="scv_srv_1666" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </server>
+    </client-state>
+    <m k="0" d="//elektron/Groups/DD/Research/Nagaev/Python/filters/CTMlem/Run/Run_Mlem.py" l="E:\usik\perforce\full\elektron\Groups\DD\Research\Nagaev\Python\filters\CTMlem\Run\Run_Mlem.py" />
   </component>
 </application>
