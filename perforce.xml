@@ -24,9 +24,8 @@
         <users />
         <ch t="0" ur="0" c="0" />
         <u f="0" c="0" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="2" c="0" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="3" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1" c="0" a="INTEGRATE_FILE" t="0" ur="0" />
+        <u f="2" c="0" a="ADD_FILE" t="0" ur="0" />
       </server>
     </client-state>
     <client-state scid="scv_srv:1666" cid="scv_srv_1666">
@@ -69,9 +68,8 @@
         <users />
       </server>
     </client-state>
-    <m k="1" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/manager.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\manager.py" />
-    <m k="2" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/ogava.config" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\ogava.config" />
+    <m k="1" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/ogava.config" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\ogava.config" />
+    <m k="2" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/manager.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\manager.py" />
     <m k="0" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/validator.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\validator.py" />
-    <m k="3" d="//elektron/Groups/DD/Research/Nagaev/Python/filters/CTMlem/Run/Run_Mlem.py" l="E:\usik\perforce\full\elektron\Groups\DD\Research\Nagaev\Python\filters\CTMlem\Run\Run_Mlem.py" />
   </component>
 </application>
