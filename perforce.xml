@@ -1,33 +1,5 @@
 <application>
   <component name="PerforceCachedClientServerState">
-    <client-state scid="scv-srv:1666" cid="full">
-      <local serverConnection="scv-srv:1666" clientName="full" isServerCaseInsensitive="true">
-        <workspace t="0" n="full" />
-        <job-status t="0">
-          <s s="open" />
-          <s s="suspended" />
-          <s s="closed" />
-        </job-status>
-        <users />
-      </local>
-      <server serverConnection="scv-srv:1666" clientName="full" isServerCaseInsensitive="true">
-        <workspace t="jo5dyb6u" n="full">
-          <r p="E:\usik\perforce\full" />
-          <m d="//elektron/..." w="//full/elektron/..." />
-          <m d="//depot/..." w="//full/depot/..." />
-        </workspace>
-        <job-status t="0">
-          <s s="open" />
-          <s s="suspended" />
-          <s s="closed" />
-        </job-status>
-        <users />
-        <ch t="0" ur="0" c="0" />
-        <u f="0" c="0" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="1" c="0" a="INTEGRATE_FILE" t="0" ur="0" />
-        <u f="2" c="0" a="ADD_FILE" t="0" ur="0" />
-      </server>
-    </client-state>
     <client-state scid="scv_srv:1666" cid="scv_srv_1666">
       <local serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
         <workspace t="0" n="scv_srv_1666" />
@@ -68,8 +40,5 @@
         <users />
       </server>
     </client-state>
-    <m k="1" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/ogava.config" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\ogava.config" />
-    <m k="2" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/manager.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\manager.py" />
-    <m k="0" d="//elektron/Groups/SWTest/usik/TestTools/OrganAutoValidator/v2.0/PythonCore/validator.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\TestTools\OrganAutoValidator\v2.0\PythonCore\validator.py" />
   </component>
 </application>
