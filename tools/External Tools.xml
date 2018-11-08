@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="mypy" description="mypy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$PyInterpreterDirectory$\Scripts\mypy" />
-      <option name="PARAMETERS" value="-p temp" />
+      <option name="COMMAND" value="$PyInterpreterDirectory$\Scripts\mypy " />
+      <option name="PARAMETERS" value=" $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
