@@ -1,25 +1,5 @@
 <application>
   <component name="PerforceCachedClientServerState">
-    <client-state scid="scv_srv:1666" cid="scv_srv_1666">
-      <local serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
-        <workspace t="0" n="scv_srv_1666" />
-        <job-status t="0">
-          <s s="open" />
-          <s s="suspended" />
-          <s s="closed" />
-        </job-status>
-        <users />
-      </local>
-      <server serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
-        <workspace t="0" n="scv_srv_1666" />
-        <job-status t="0">
-          <s s="open" />
-          <s s="suspended" />
-          <s s="closed" />
-        </job-status>
-        <users />
-      </server>
-    </client-state>
     <client-state scid="localhost:1666" cid="scv-srv_1666">
       <local serverConnection="localhost:1666" clientName="scv-srv_1666" isServerCaseInsensitive="true">
         <workspace t="0" n="scv-srv_1666" />
@@ -32,6 +12,46 @@
       </local>
       <server serverConnection="localhost:1666" clientName="scv-srv_1666" isServerCaseInsensitive="true">
         <workspace t="0" n="scv-srv_1666" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </server>
+    </client-state>
+    <client-state scid="scv-srv:1666" cid="full">
+      <local serverConnection="scv-srv:1666" clientName="full" isServerCaseInsensitive="true">
+        <workspace t="0" n="full" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="scv-srv:1666" clientName="full" isServerCaseInsensitive="true">
+        <workspace t="0" n="full" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </server>
+    </client-state>
+    <client-state scid="scv_srv:1666" cid="scv_srv_1666">
+      <local serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
+        <workspace t="0" n="scv_srv_1666" />
+        <job-status t="0">
+          <s s="open" />
+          <s s="suspended" />
+          <s s="closed" />
+        </job-status>
+        <users />
+      </local>
+      <server serverConnection="scv_srv:1666" clientName="scv_srv_1666" isServerCaseInsensitive="true">
+        <workspace t="0" n="scv_srv_1666" />
         <job-status t="0">
           <s s="open" />
           <s s="suspended" />
