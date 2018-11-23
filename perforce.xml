@@ -23,11 +23,11 @@
         </job-status>
         <users />
         <ch t="0" ur="0" c="0" />
-        <u f="0" c="0" a="ADD_FILE" t="0" ur="0" />
-        <u f="1" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="0" c="0" a="EDIT_FILE" t="0" ur="0" />
+        <u f="1" c="0" a="ADD_FILE" t="0" ur="0" />
       </server>
     </client-state>
-    <m k="1" d="//elektron/Groups/SWTest/usik/Testing/CTNorm2/v2.0/testenv/SeriesStatistics/SeriesStatistics.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\Testing\CTNorm2\v2.0\testenv\SeriesStatistics\SeriesStatistics.py" />
-    <m k="0" d="//elektron/Groups/SWTest/usik/Testing/CTNorm2/v2.0/testenv/SeriesStatistics/try.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\Testing\CTNorm2\v2.0\testenv\SeriesStatistics\try.py" />
+    <m k="0" d="//elektron/Groups/SWTest/usik/Testing/CTNorm2/v2.0/testenv/SeriesStatistics/SeriesStatistics.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\Testing\CTNorm2\v2.0\testenv\SeriesStatistics\SeriesStatistics.py" />
+    <m k="1" d="//elektron/Groups/SWTest/usik/Testing/CTNorm2/v2.0/testenv/SeriesStatistics/try.py" l="E:\usik\perforce\full\elektron\Groups\SWTest\usik\Testing\CTNorm2\v2.0\testenv\SeriesStatistics\try.py" />
   </component>
 </application>
