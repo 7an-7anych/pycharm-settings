@@ -10,7 +10,6 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="qml" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="spec" type="Python" />
     </extensionMap>
   </component>
